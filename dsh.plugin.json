@@ -1,0 +1,12 @@
+{
+  "name": "dsh-local-file-reference",
+  "description": "Paste local files into the composer as path-backed attachment references",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-local-file-reference",
+    "inject": ["sessions", "inputTriggers"]
+  },
+  "client": {
+    "platform": "web"
+  }
+}

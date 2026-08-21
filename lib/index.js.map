@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.js"],
+  "sourcesContent": ["export const name = \"dsh-local-file-reference\";\nexport const inject = [];\nexport function apply() {}\n"],
+  "mappings": ";AAAO,IAAM,OAAO;AACb,IAAM,SAAS,CAAC;AAChB,SAAS,QAAQ;AAAC;",
+  "names": []
+}
